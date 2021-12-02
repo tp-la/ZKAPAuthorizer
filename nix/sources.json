@@ -1,14 +1,14 @@
 {
     "mach-nix": {
-        "branch": "master",
+        "branch": "extraneous-dep",
         "description": "Create highly reproducible python environments",
         "homepage": "",
-        "owner": "PrivateStorageio",
+        "owner": "tp-la",
         "repo": "mach-nix",
-        "rev": "4d2cc6c6fe5b2875e7b48a84a1b1f688c6991c42",
-        "sha256": "03xabrwzbby6dcp3w4li7p9cxsca5n2jlz452sz7r4h1n5sx9mwg",
+        "rev": "3ffc98f476418113ff1a3306a1339cbc97647a97",
+        "sha256": "1cvn5zcldvk2dcvks4zj93q97f0qgmm3n9gs6h1wk83i4gqn30gz",
         "type": "tarball",
-        "url": "https://github.com/PrivateStorageio/mach-nix/archive/4d2cc6c6fe5b2875e7b48a84a1b1f688c6991c42.tar.gz",
+        "url": "https://github.com/tp-la/mach-nix/archive/3ffc98f476418113ff1a3306a1339cbc97647a97.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "niv": {
