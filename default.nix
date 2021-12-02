@@ -30,6 +30,8 @@ in
       traceback2 = "wheel";
       # - Incorrectly merged extras - https://github.com/DavHau/mach-nix/pull/334
       tqdm = "wheel";
+      # tests are not packaged in sdist
+      tomli = "wheel";
     };
   in
     rec {
